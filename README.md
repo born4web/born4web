@@ -6,7 +6,7 @@ Building backend systems and practical tools that solve real-world problems.
 
 ---
 
-🇬🇧 English | 🇨🇿 [Česky](#česky)
+🇬🇧 English | 🇨🇿 [Česky](#cesky)
 
 ---
 
