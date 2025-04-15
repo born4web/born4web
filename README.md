@@ -66,7 +66,7 @@ _More public examples coming soon – follow to stay updated._
 
 ---
 
-# 🇨🇿 Česky
+# 🇨🇿 Cesky
 
 ## 👋 Ahoj, jsem Petr Vlček (@born4web)
 
