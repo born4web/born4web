@@ -6,7 +6,7 @@ Building backend systems and practical tools that solve real-world problems.
 
 ---
 
-🇬🇧 English | 🇨🇿 [Česky](#Cesky)
+🇬🇧 English | 🇨🇿 [Česky](#cesky)
 
 ---
 
@@ -66,7 +66,7 @@ _More public examples coming soon – follow to stay updated._
 
 ---
 
-## 🇨🇿 Cesky
+## Cesky 🇨🇿
 
 ## 👋 Ahoj, jsem Petr Vlček (@born4web)
 
